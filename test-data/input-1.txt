@@ -1,0 +1,16 @@
+#hibba elejen
+valmi
+# hajo parameter nelkul
+GT4500
+#szetnenk torpedozni
+TORPEDO
+#halyo letrehozatal
+GT4500,2,0,1,0
+#torpedo halyo eseten
+TORPEDO
+#torpedo helytelen
+TORPEDO,al
+#helyesek
+TORPEDO,all
+TORPEDO,single
+
