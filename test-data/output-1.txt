@@ -1,0 +1,14 @@
+Unknown command: 'VALMI' 
+#elvart hibba
+usage: GT4500,<PRI_CNT>,<PRI_FAIL_RATE>,<SEC_CNT>,<SEC_FAIL_RATE>
+#parancsok megjelntk
+No ship has been initialized 
+#még nincsen halyo
+SUCCESS
+usage: TORPEDO,<SINGLE|ALL> 
+#nem adatunk meg hogy melyikel
+Unknown firing mode: 'AL'
+#keri a helyest
+SUCCESS
+SUCCESS
+#helyesek
